@@ -46,5 +46,12 @@ form{
     border: 1px solid #41b883;
     cursor: pointer;
 }
+i {
+    position: absolute;
+    bottom: 10px;
+    right:10px;
+    color: #fff;
+    cursor: pointer;
+}
 
 </style>
